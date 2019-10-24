@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AirlineMonteCarlo
+comment1.params=numSold\ numSeats\ probability
+comment1.target=AirlineMonteCarlo(int,\ int,\ double)
+comment1.text=\n\ The\ constructor\ for\ the\ AirlineMonteCarlo\ class\n\ \n\ @param\ numSold\ \ \ \ \ \ \ the\ number\ of\ tickets\ sold\n\ @param\ numSeats\ \ \ \ \ \ the\ number\ of\ seats\ available\ on\ the\ plane\n\ @param\ probability\ \ \ the\ percentage\ of\ people\ that\ do\ not\ take\ the\ flight\n
+comment2.params=
+comment2.target=void\ runSimulation()
+comment2.text=\n\ Simulates\ 100,000\ flights\ and\ calculates\ \n\ the\ seats\ filled\ for\ each\ flight,\n\ the\ times\ the\ flight\ is\ overbooked,\ and\n\ the\ total\ seats\ filled\ in\ 100,000\ simmulations\n
+comment3.params=
+comment3.target=void\ reportResults()
+comment3.text=\n\ Prints\ a\ user-friendly\ string\ with\ the\ results\ of\ the\ simulation\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Runs\ the\ simulations\ and\ reports\ the\ results\n
+numComments=5
